@@ -22,5 +22,5 @@ SDN provides flexibility and centralized control of networks, but it is also vul
 - **Programming Language:** Python
 - **Machine Learning Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 - **SDN Simulation:** Mininet
-- **Controller:** Ryu / POX (depending on implementation)
+- **Controller:** Ryu 
 - **Dataset:** Custom generated traffic dataset or public SDN DDoS datasets
